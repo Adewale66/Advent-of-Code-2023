@@ -112,7 +112,6 @@ int main(int argc, char **argv)
 				break;
 		}
 		sum += ((first * 10) + last);
-		printf("first: %ld last: %ld\n", first, last);
 	}
 	fclose(input);
 	if (line)
