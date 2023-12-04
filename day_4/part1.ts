@@ -6,29 +6,12 @@ let total = 0;
 
 for(let i = 0; i < words.length - 1; i++)
 {
-	let points = 0;
 	const numbers = words[i].split(":")[1];
 	const [ wn , gn ] = numbers.split("|");
 	const winNums = wn.trim().split(" ");
 	const gameNums = gn.trim().split(" ");
-
-	for (let j = 0; j < winNums.length; j++)
-	{
-		if (winNums[j] == "")
-		{
-			continue;
-		}
-		
-		if (gameNums.includes(winNums[j]))
-		{
-			if (points == 0)
-				points++;
-			else
-				points *= 2;
-		}
-	
-	}
-	total += points;
-
+	const nums = winNums.filter(x => x != "" && gameNums.includes(x)).length
+	if (nums > 0)
+		total += Math.pow(2, nums - 1 )
 }
 console.log(total);

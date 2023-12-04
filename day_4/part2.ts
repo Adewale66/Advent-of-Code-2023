@@ -20,20 +20,7 @@ for(let i = 0; i < words.length - 1; i++)
 	const winNums = wn.trim().split(" ");
 	const gameNums = gn.trim().split(" ");
 
-	let cp = 0
-	for (let j = 0; j < winNums.length; j++)
-	{
-		if (winNums[j] == "")
-		{
-			continue;
-		}
-		
-		if (gameNums.includes(winNums[j]))
-		{
-			cp++;
-		}
-	
-	}
+	let cp =  winNums.filter(x => x != "" && gameNums.includes(x)).length
 	let tmp = cp
 	for (let l = 0; l < h[i]; l++)
 	{
