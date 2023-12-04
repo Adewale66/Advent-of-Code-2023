@@ -8,7 +8,7 @@ Trying Advent of code with 5 different languages
 | [Day 01](./day_1)    |  ✅      |    ✅    |      C    |
 | [Day 02](./day_2)  |    ✅    |      ✅  |      Python    |
 | [Day 03](./day_3)   |    ✅    |     ✅   |      Java    |
-| [Day 04](./day_4)   |        |        |          |
+| [Day 04](./day_4)   |     ✅   |      ✅  |       Typescript   |
 | [Day 05](./day_5)   |        |        |          |
 | [Day 06](./day_6)   |        |        |          |
 | [Day 07](./day_7)   |        |        |          |
@@ -30,4 +30,3 @@ Trying Advent of code with 5 different languages
 | [Day 23](./day_23)   |        |        |          |
 | [Day 24](./day_24)   |        |        |          |
 | [Day 25](./day_25) |          |         |          |
-|     |        |        |          |
