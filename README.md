@@ -1,7 +1,7 @@
 Advent of Code 2023
 ---
 
-Trying Advent of code with 3 (+ C) different languages 
+Trying Advent of code with mostly Java, Typescript and Python
 ---
 | Day | Part 1 | Part 2 | Language |
 | --- | ------ | ------ | -------- |
