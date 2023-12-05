@@ -9,7 +9,7 @@ Trying Advent of code with 3 (+ C) different languages
 | [Day 02](./day_2)  |    ✅    |      ✅  |      Python    |
 | [Day 03](./day_3)   |    ✅    |     ✅   |      Java    |
 | [Day 04](./day_4)   |     ✅   |      ✅  |       Typescript   |
-| [Day 05](./day_5)   |      ✅  |    ✅    |          |  Python
+| [Day 05](./day_5)   |      ✅  |    ✅    |     Python     |  
 | [Day 06](./day_6)   |        |        |          |
 | [Day 07](./day_7)   |        |        |          |
 | [Day 08](./day_8)   |        |        |          |
