@@ -1,7 +1,7 @@
 Advent of Code 2023
 ---
 
-Trying Advent of code with mostly Java, Typescript and Python
+Trying Advent of code with Java, Typescript and Python
 ---
 | Day | Part 1 | Part 2 | Language |
 | --- | ------ | ------ | -------- |
