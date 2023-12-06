@@ -2,8 +2,7 @@ import * as fs from 'fs';
 
 const words = fs.readFileSync('input', 'utf8').split('\n');
 
-type Hash = { [key: number]: number };
-const h: Hash = {}
+const h = {}
 let total = 0;
 
 for (let i = 0;  i < words.length - 1; i++)

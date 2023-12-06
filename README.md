@@ -1,16 +1,16 @@
 Advent of Code 2023
 ---
 
-Trying Advent of code with Java, Typescript and Python
+Trying Advent of code with Java, Javascript and Python
 ---
 | Day | Part 1 | Part 2 | Language |
 | --- | ------ | ------ | -------- |
 | [Day 01](./day_1)    |  ✅      |    ✅    |      C    |
 | [Day 02](./day_2)  |    ✅    |      ✅  |      Python    |
 | [Day 03](./day_3)   |    ✅    |     ✅   |      Java    |
-| [Day 04](./day_4)   |     ✅   |      ✅  |       Typescript   |
+| [Day 04](./day_4)   |     ✅   |      ✅  |       Javascript   |
 | [Day 05](./day_5)   |      ✅  |    ✅    |     Python     |  
-| [Day 06](./day_6)   |        |        |          |
+| [Day 06](./day_6)   |     ✅   |     ✅   |     Javascript     |
 | [Day 07](./day_7)   |        |        |          |
 | [Day 08](./day_8)   |        |        |          |
 | [Day 09](./day_9)   |        |        |          |
