@@ -37,5 +37,5 @@ if __name__ == "__main__":
                     lc[i] += 1
             if len(list(filter(lambda x : x.endswith("Z"), pos))) == le:
                 break
-        lcm = print(math.lcm(*(list(map(lambda x : x + 1, lc)))))
+        print(math.lcm(*(list(map(lambda x : x + 1, lc)))))
         
