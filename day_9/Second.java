@@ -39,18 +39,7 @@ public class Second {
                     }
                 }
                 Collections.reverse(lastNumbers);
-                int s  = 0;
-                for (Integer lastNumber : lastNumbers) {
-
-                    if (s < 0) {
-                        s *= -1;
-                        s += lastNumber;
-                    }
-                    else
-                        s = lastNumber - s;
-                }
-                total += s;
-
+                total += lastNumbers.stream().reduce(0, (a, b) -> b - a);
                 lastNumbers.clear();
             }
             System.out.println(total);
