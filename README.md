@@ -14,12 +14,12 @@ Trying Advent of code with Java, Javascript and Python
 | [Day 07](./day_7)   |      ✅  |     ✅   |      Java    |
 | [Day 08](./day_8)   |      ✅  |     ✅   |       Python   |
 | [Day 09](./day_9)   |      ✅  |     ✅   |        Java  |
-| [Day 10](./Day_10)   |        |        |          |
-| [Day 11](./Day_11)   |        |        |          |
-| [Day 12](./day_12)   |        |        |          |
-| [Day 13](./day_13)   |        |        |          |
-| [Day 14](./day_14)   |        |        |          |
-| [Day 15](./day_15)   |        |        |          |
+| [Day 10](./Day_10)   |      ❌  |     ❌   |          |
+| [Day 11](./Day_11)   |      ❌  |     ❌   |          |
+| [Day 12](./day_12)   |      ❌  |      ❌  |          |
+| [Day 13](./day_13)   |      ❌  |       ❌ |          |
+| [Day 14](./day_14)   |       ✅ |        ❌|       Python   |
+| [Day 15](./day_15)   |      ✅  |     ✅   |      Python    |
 | [Day 16](./day_16)   |        |        |          |
 | [Day 17](./day_17)   |        |        |          |
 | [Day 18](./day_18)   |        |        |          |
