@@ -14,7 +14,7 @@ Trying Advent of code with Java, Javascript and Python
 | [Day 07](./day_7)   |      ✅  |     ✅   |      Java    |
 | [Day 08](./day_8)   |      ✅  |     ✅   |       Python   |
 | [Day 09](./day_9)   |      ✅  |     ✅   |        Java  |
-| [Day 10](./Day_10)   |      ❌  |     ❌   |          |
+| [Day 10](./Day_10)   |      ✅  |     ❌   |       Python   |
 | [Day 11](./Day_11)   |      ❌  |     ❌   |          |
 | [Day 12](./day_12)   |      ❌  |      ❌  |          |
 | [Day 13](./day_13)   |      ❌  |       ❌ |          |
