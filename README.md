@@ -21,9 +21,9 @@ Trying Advent of code with Java, Javascript and Python
 | [Day 14](./day_14)   |       ✅ |        ❌|       Python   |
 | [Day 15](./day_15)   |      ✅  |     ✅   |      Python    |
 | [Day 16](./day_16)   |     ✅   |    ✅    |      Python    |
-| [Day 17](./day_17)   |        |        |          |
-| [Day 18](./day_18)   |        |        |          |
-| [Day 19](./day_19)   |        |        |          |
+| [Day 17](./day_17)   |      ❌  |     ❌   |          |
+| [Day 18](./day_18)   |      ❌  |     ❌   |          |
+| [Day 19](./day_19)   |      ✅  |        |       Java   |
 | [Day 20](./day_20)    |        |        |          |
 | [Day 21](./day_21)   |        |        |          |
 | [Day 22](./day_22)    |        |        |          |
